@@ -10,7 +10,7 @@ Credit for the driver code and installation scripts to:
 
 Clone this repo:
 
-    git clone --depth 1 https://github.com/sfera-labs/iono-pi-max-can-fd-dtoverlay.git
+    git clone --depth 1 https://github.com/sfera-labs/iono-pi-max-can-driver.git
 
 Build and install the driver:
 
