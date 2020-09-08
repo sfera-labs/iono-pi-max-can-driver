@@ -14,7 +14,7 @@ Clone this repo:
 
 Build and install the driver:
 
-    cd iono-pi-max-can-fd-dtoverlay/mcp25xxfd
+    cd iono-pi-max-can-driver/mcp25xxfd
     sudo ./install.sh
     cd ..
 
@@ -30,7 +30,7 @@ Enable it by adding the following line to `/boot/config.txt`:
 Optionally remove the downloaded repo:
 
     cd ..
-    sudo rm -r iono-pi-max-can-fd-dtoverlay
+    sudo rm -r iono-pi-max-can-driver
 
 Reboot:
 
