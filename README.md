@@ -30,7 +30,7 @@ Enable it by adding the following line to `/boot/config.txt`:
 Optionally remove the downloaded repo:
 
     cd ..
-    suro rm -r iono-pi-max-can-fd-dtoverlay
+    sudo rm -r iono-pi-max-can-fd-dtoverlay
 
 Reboot:
 
