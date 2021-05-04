@@ -2,6 +2,10 @@
 
 SocketCAN driver and device tree overlay for the CAN FD/CAN 2.0 controller (MCP2518FD) of [Iono Pi Max](https://www.sferalabs.cc/iono-pi-max/) - the industrial controller based on the Raspberry Pi Compute Module
 
+**UPDATE:** The latest Raspberry Pi OS includes native support for the MCP2518FD controller. Refer to the [Iono Pi Max kernel module documentation](https://github.com/sfera-labs/iono-pi-max-kernel-module) for setup instructions.
+
+For older Raspberry Pi OS/Raspbian versions, refer to the below instructions.
+
 Credit for the driver code and installation scripts to:
 - https://github.com/marckleinebudde/linux
 - https://github.com/Seeed-Studio/seeed-linux-dtoverlays
